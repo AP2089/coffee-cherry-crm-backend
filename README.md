@@ -2,6 +2,12 @@
 
 API заказов и обращений для CRM (auth).
 
+## Демо
+
+- URL: https://crm.coffee-cherry.proskurin.site
+- Логин: `guest`
+- Пароль: `guest`
+
 ## Переменные окружения
 
 - `PORT` — порт API, по умолчанию `3012`.
